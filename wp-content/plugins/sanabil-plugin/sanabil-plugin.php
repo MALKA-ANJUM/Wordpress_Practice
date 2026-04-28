@@ -27,5 +27,8 @@ if ( ! defined( 'SANABIL_PLUGIN_DIR_URL' ) ) {
 	define('SANABIL_PLUGIN_DIR_URL', plugin_dir_url(__FILE__)); // Exit if accessed directly
 }
 
-//  Include once
+//  Include scripts & style
 require_once SANABIL_PLUGIN_DIR_PATH . 'inc/scripts.php';
+
+// Actions & Filters
+require_once SANABIL_PLUGIN_DIR_PATH . 'inc/hooks.php';
