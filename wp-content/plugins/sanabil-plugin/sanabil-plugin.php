@@ -37,3 +37,6 @@ require_once SANABIL_PLUGIN_DIR_PATH . 'inc/hooks.php';
 require_once SANABIL_PLUGIN_DIR_PATH . 'inc/cpt.php';
 require_once SANABIL_PLUGIN_DIR_PATH . 'inc/taxonomy.php';
 require_once SANABIL_PLUGIN_DIR_PATH . 'inc/metaboxes.php';
+
+// includes
+require_once SANABIL_PLUGIN_DIR_PATH . 'inc/shortcuts.php';
