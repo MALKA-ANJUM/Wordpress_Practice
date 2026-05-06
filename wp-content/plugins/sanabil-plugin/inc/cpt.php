@@ -34,4 +34,5 @@ function register_Product_post_type() {
 
     register_post_type('Product', $args);
 }
+
 add_action('init', 'register_Product_post_type', 0);
