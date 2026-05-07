@@ -1,1 +1,1 @@
-learning wordpress Custom plugins, shortcuts 
+learning wordpress Custom plugins, shortcuts, taxonomy, metaboxes
